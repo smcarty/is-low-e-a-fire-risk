@@ -1,4 +1,4 @@
-## Literatur
+## Literature
 This folder is for background research, official publications, and scientific or technical documents that help inform the risk analysis related to low-emissivity (low-E) window technologies and potential fire hazards.
 
 You do not need to be the author of the document to include it, as long as it’s publicly available or properly cited.
