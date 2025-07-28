@@ -3,7 +3,7 @@ This folder is for background research, official publications, and scientific or
 
 You do not need to be the author of the document to include it, as long as it’s publicly available or properly cited.
 
-#3 Acceptable types of literature:
+## Acceptable types of literature:
  - Peer-reviewed journal articles
 (Example: studies on concentrated solar reflection or siding material thresholds)
  - Technical specifications
