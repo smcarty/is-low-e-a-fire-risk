@@ -12,7 +12,11 @@ This project aims to investigate reports that Low-E windows, while improving ene
 - Heat damage to vehicles (e.g. warped cladding or melted plastics)
 - Increased risk of fire spread in wildland–urban interface zones
 
-We are not assuming fault. This is an evidence-based assessment of risk that draws on real-world observations, temperature testing, building codes, and fire data.
+We are not assuming fault. This is an evidence-based assessment of risk that draws on real-world observations, temperature testing, building codes, and fire data. 
+
+## Guiding Note
+
+This project does not seek to discredit or demonize low-emissivity (low-E) windows, which play a valuable role in improving building efficiency and reducing energy use. Our aim is to explore whether unintended fire risks may arise in certain contexts, especially where concentrated reflections or material interactions occur. By investigating this carefully, we hope to inform safer designs and policies without undermining the broader benefits of sustainable technology.
 
 ---
 
