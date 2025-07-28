@@ -22,17 +22,17 @@ This project does not seek to discredit or demonize low-emissivity (low-E) windo
 
 ## What This Repository Contains
 
--	*case-files/*
+-	*case-files/*  
 Documented incidents of heat damage or suspected ignition, such as melted cladding, scorched siding, or vegetation fires. Each file should include location, date (if known), material affected, observed damage, and photographic or witness evidence if available.
-- *data-sources/*
+- *data-sources/*  
 Archival or public domain sources of raw information, including government fire maps, energy rebate records, construction permits, insurance payout datasets, and environmental data. This folder serves as a repository of inputs that support future analysis.
-- *literature/*
+- *literature/*  
 Published research, technical specifications, white papers, fire safety bulletins, manufacturer documentation on reflective window coatings, and material temperature thresholds. Peer-reviewed or expert sources preferred.
-- *media/*
+- *media/*  
 Visual documentation, such as photographs of damage, screenshots of satellite imagery, or snapshots of suspected reflection paths. This folder is for standalone media, not raw datasets or analytical visualizations.
-- *analysis/*
+- *analysis/*  
 Custom-generated overlays, maps, scripts, statistical models, and correlation efforts. Examples might include GIS shapefiles comparing fire origins with housing developments using Low-E windows, or code analyzing fire ignition timing versus construction dates.
--	*contributions.md*
+-	*contributions.md*  
 Guidelines for submitting new case files, sourcing public data, creating visual overlays, or contributing to the project through research, testing, or peer review. Includes formatting expectations and credit policy.
 
 ---
