@@ -18,11 +18,18 @@ We are not assuming fault. This is an evidence-based assessment of risk that dra
 
 ## What This Repository Contains
 
-- `case-files/` - Documented heat damage or potential ignition events
-- `data-sources/` - Public fire maps, insurance records, energy-efficiency rebate filings, and construction overlays
-- `literature/` - Studies, fire department warnings, and technical specifications
-- `media/` - Photo evidence (optional) of damage or suspected heat concentration
-- `contributions.md` - Guidelines for submitting cases or participating in research
+-	case-files/
+Documented incidents of heat damage or suspected ignition, such as melted cladding, scorched siding, or vegetation fires. Each file should include location, date (if known), material affected, observed damage, and photographic or witness evidence if available.
+- data-sources/
+Archival or public domain sources of raw information, including government fire maps, energy rebate records, construction permits, insurance payout datasets, and environmental data. This folder serves as a repository of inputs that support future analysis.
+- literature/
+Published research, technical specifications, white papers, fire safety bulletins, manufacturer documentation on reflective window coatings, and material temperature thresholds. Peer-reviewed or expert sources preferred.
+- media/
+Visual documentation, such as photographs of damage, screenshots of satellite imagery, or snapshots of suspected reflection paths. This folder is for standalone media, not raw datasets or analytical visualizations.
+- analysis/
+Custom-generated overlays, maps, scripts, statistical models, and correlation efforts. Examples might include GIS shapefiles comparing fire origins with housing developments using Low-E windows, or code analyzing fire ignition timing versus construction dates.
+-	contributions.md
+Guidelines for submitting new case files, sourcing public data, creating visual overlays, or contributing to the project through research, testing, or peer review. Includes formatting expectations and credit policy.
 
 ---
 
