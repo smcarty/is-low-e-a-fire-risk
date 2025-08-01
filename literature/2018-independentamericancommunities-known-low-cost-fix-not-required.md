@@ -25,5 +25,5 @@ One of the most striking points: the **existence of capillary tubes** as a **kno
 ### Relevance to R-Low-E Project:
 - Adds housing policy and HOA context to fire and damage cases.
 - Provides **manufacturer-level documentation** of liability exclusions.
-- Reinforces the case for **regulatory failure**: a known fix exists, yet it's not required.
+- Reinforces the case for **regulatory failure**: a known fix exists, yet it's not required by state. Low-E windows are required by states.
 - Highlights **real-world conflict** emerging from energy-efficiency mandates.
